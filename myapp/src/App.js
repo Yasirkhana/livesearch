@@ -7,6 +7,8 @@ function App() {
     <>
     <h1 >Live Search Engine</h1>
     <Search/>
+    <h2>By : YasirKhana </h2>
+    <p>khan10055yasir@gmail.com</p>
     </>
   );
 }

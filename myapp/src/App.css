@@ -27,7 +27,7 @@
 .App-link {
   color: #61dafb;
 }
-h1{
+h1,h2,p{
   text-align: center ;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -37,7 +37,7 @@ h1{
   border-radius: 30px;
   background-color: rgb(151, 135, 255);
   margin: auto;
-  margin-top: 50px;
+  margin-top: 5px;
   align-items: center;
   text-align:center;
   padding:5px;
