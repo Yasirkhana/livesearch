@@ -3,7 +3,7 @@ import React from 'react'
 
 const SearchResult =(props) =>{
 
-    const img = `https://source.unsplash.com/500x400/${props.search}`;
+    const img = `https://source.unsplash.com/500x400/?${props.search}`;
 
     return(
         <>
